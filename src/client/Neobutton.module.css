@@ -1,0 +1,12 @@
+.NeobuttonBlue{
+    background-color: rgba(209, 216, 239, 0.5);
+    align-items: stretch;
+    color: #abb5e7;
+    border: 1px #0dbfea;
+}
+.NeobuttonGreen{
+    background-color: rgb(135, 241, 89);
+    align-items: stretch;
+    color: #8abf7c;
+    border: 1px #082600;
+}
